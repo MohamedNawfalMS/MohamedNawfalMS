@@ -4,7 +4,7 @@
 ### 🤖 AI & Machine Learning Enthusiast | 💡 Electronics Innovator | ⚛️ Quantum Computing Explorer  
 
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwebixnet.com%2Ffull-stack-landing-page%2F&psig=AOvVaw3izu2001ktWqxbxRx_FlWN&ust=1761122461103000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjgw9fytJADFQAAAAAdAAAAABAK" alt="Banner" width="600"/>
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5612AQGOmwfIE5mlWA%2Farticle-cover_image-shrink_720_1280%2Farticle-cover_image-shrink_720_1280%2F0%2F1674617947228%3Fe%3D2147483647%26v%3Dbeta%26t%3DL-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U&tbnid=sgHlahCx9OOyOM&vet=1&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-can-developer-improve-skill-developing-mahim-hossain&docid=zMFqu5Xignaw7M&w=640&h=640&itg=1&source=sh%2Fx%2Fim%2Fm1%2F1&kgs=66bf9df7aaa0946f&shem=isst" alt="Banner" width="600"/>
 </div>
 
 ---
