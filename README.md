@@ -1,13 +1,12 @@
+
 # 👋 Hi, I'm **Mohamed Nawfal M S**  
 ### 🤖 AI & Machine Learning Enthusiast | 💡 Electronics Innovator | ⚛️ Quantum Computing Explorer  
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/2b/da/b9/2bdab9c18dfb9a13b6f56b6b80d4d4cf.gif" alt="Banner" width="600"/>
-
+  <img src="https://i.pinimg.com/originals/2b/da/b9/2bdab9c18dfb9a13b6f56b6b80d4d4cf.gif" alt="Banner" width="600"/>
 </div>
 
----
-
+---  
 ## 🚀 About Me  
 I’m an **Electronics and Communication Engineering student** at **Madras Institute of Technology, Anna University**, passionate about the fusion of **AI, IoT, and Quantum Computing**.  
 I enjoy building intelligent systems, automation projects, and exploring **quantum-classical hybrid algorithms** that push the boundaries of modern computation.
